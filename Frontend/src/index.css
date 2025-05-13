@@ -1,0 +1,27 @@
+
+@font-face {
+  font-family: "openSans";
+  src: url("../src/assets/fonts/static/OpenSans-Regular.ttf") format("truetype");
+  src: url("../src/assets/fonts/") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "openSans3";
+  src: url("../src/assets/fonts/static/OpenSans-Light.ttf") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "robot";
+  src: url("../src/assets/fonts/static/OpenSans-Medium.ttf") format("truetype");
+  font-style: normal;
+}
+
+*{
+  font-family: 'openSans', sans-serif;
+}
+
+.border{
+  border: 2px solid red !important;
+}
