@@ -102,7 +102,7 @@ export default function Hero() {
 
       <Box sx={{ display: { xs: "none", md: "block", minWidth: "26.6%" } }}>
         <Box sx={{ position: "relative" }}>
-          <img width={"100%"} src="src\images\banner-17.jpg" alt="" srcset="" />
+          <img width={"100%"} src="src\images\banner-17.jpg" alt="" />
           <Stack
             sx={{
               position: "absolute",
